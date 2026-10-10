@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "id": "chord-song",
+  "title": "I–IV–V–I with Bass",
+  "difficulty": 3,
+  "kind": "exercise",
+  "bpm": 76,
+  "tracks": [
+    {
+      "hand": "R",
+      "notation": "C4/1+E4/3+G4/5:2 C4/1+F4/4+A4/5:2 B3/1+D4/2+G4/5:2 C4/1+E4/3+G4/5:2 C4/1+E4/3+G4/5:2 C4/1+F4/4+A4/5:2 B3/1+D4/2+G4/5:2 C4/1+E4/3+G4/5:2"
+    },
+    {
+      "hand": "L",
+      "notation": "C3/1:2 F2/5:2 G2/4:2 C3/1:2 C3/1:2 F2/5:2 G2/4:2 C3/1:2"
+    }
+  ]
+}

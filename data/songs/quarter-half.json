@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "id": "quarter-half",
+  "title": "Steady Beats",
+  "difficulty": 2,
+  "kind": "exercise",
+  "bpm": 80,
+  "tracks": [
+    {
+      "hand": "R",
+      "notation": "C4/1 C4/1 C4/1 C4/1 E4/2:2 E4/2:2 G4/3 G4/3 G4/3 G4/3 C5/5:4 G4/3:2 E4/2:2 C4/1:4"
+    }
+  ]
+}

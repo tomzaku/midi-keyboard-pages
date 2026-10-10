@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "id": "london-bridge",
+  "title": "London Bridge Is Falling Down",
+  "composer": "Traditional",
+  "difficulty": 2,
+  "kind": "song",
+  "bpm": 104,
+  "tracks": [
+    {
+      "hand": "R",
+      "notation": "G4/4:1.5 A4/5:0.5 G4/4 F4/3 E4/2 F4/3 G4/4:2 D4/1 E4/2 F4/3:2 E4/2 F4/3 G4/4:2 G4/4:1.5 A4/5:0.5 G4/4 F4/3 E4/2 F4/3 G4/4:2 D4/2:2 G4/5:2 E4/3 C4/1:3"
+    }
+  ]
+}

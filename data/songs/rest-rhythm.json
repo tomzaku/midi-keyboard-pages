@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "id": "rest-rhythm",
+  "title": "Rests and Rhythm",
+  "difficulty": 2,
+  "kind": "exercise",
+  "bpm": 84,
+  "tracks": [
+    {
+      "hand": "R",
+      "notation": "C4/1 r C4/1 r E4/3 E4/3 r:2 G4/5:2 r G4/5 E4/3:2 C4/1:2 r:0.5 D4/2:0.5 E4/3 D4/2 C4/1:3"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "id": "left-scale",
+  "title": "Left Hand C Scale",
+  "difficulty": 3,
+  "kind": "exercise",
+  "bpm": 72,
+  "tracks": [
+    { "hand": "L", "notation": "C3/5 D3/4 E3/3 F3/2 G3/1 A3/3 B3/2 C4/1:2 C4/1 B3/2 A3/3 G3/1 F3/2 E3/3 D3/4 C3/5:2" }
+  ]
+}

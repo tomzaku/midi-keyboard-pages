@@ -1,0 +1,308 @@
+{
+  "version": 1,
+  "songs": [
+    {
+      "id": "five-finger",
+      "title": "Five Finger Warm-up",
+      "difficulty": 1,
+      "kind": "exercise",
+      "hands": "R",
+      "seconds": 12,
+      "hasFingers": true
+    },
+    {
+      "id": "find-c",
+      "title": "Finding C",
+      "difficulty": 1,
+      "kind": "exercise",
+      "hands": "R",
+      "seconds": 15,
+      "hasFingers": true
+    },
+    {
+      "id": "left-walk",
+      "title": "Left Hand Walk",
+      "difficulty": 1,
+      "kind": "exercise",
+      "hands": "L",
+      "seconds": 19,
+      "hasFingers": true
+    },
+    {
+      "id": "quarter-half",
+      "title": "Steady Beats",
+      "difficulty": 2,
+      "kind": "exercise",
+      "hands": "R",
+      "seconds": 18,
+      "hasFingers": true
+    },
+    {
+      "id": "rest-rhythm",
+      "title": "Rests and Rhythm",
+      "difficulty": 2,
+      "kind": "exercise",
+      "hands": "R",
+      "seconds": 16,
+      "hasFingers": true
+    },
+    {
+      "id": "c-scale",
+      "title": "C Major Scale",
+      "difficulty": 2,
+      "kind": "exercise",
+      "hands": "R",
+      "seconds": 12,
+      "hasFingers": true
+    },
+    {
+      "id": "g-scale",
+      "title": "G Major Scale",
+      "difficulty": 3,
+      "kind": "exercise",
+      "hands": "R",
+      "seconds": 12,
+      "hasFingers": true
+    },
+    {
+      "id": "black-keys",
+      "title": "Black Key Hop",
+      "difficulty": 3,
+      "kind": "exercise",
+      "hands": "R",
+      "seconds": 14,
+      "hasFingers": true
+    },
+    {
+      "id": "triads",
+      "title": "Three-Note Chords",
+      "difficulty": 3,
+      "kind": "exercise",
+      "hands": "R",
+      "seconds": 15,
+      "hasFingers": true
+    },
+    {
+      "id": "chord-song",
+      "title": "I–IV–V–I with Bass",
+      "difficulty": 3,
+      "kind": "exercise",
+      "hands": "both",
+      "seconds": 13,
+      "hasFingers": true
+    },
+    {
+      "id": "arpeggio",
+      "title": "Rolling Arpeggios",
+      "difficulty": 4,
+      "kind": "exercise",
+      "hands": "both",
+      "seconds": 17,
+      "hasFingers": true
+    },
+    {
+      "id": "hot-cross-buns",
+      "title": "Hot Cross Buns",
+      "composer": "Traditional",
+      "difficulty": 1,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 10,
+      "hasFingers": true
+    },
+    {
+      "id": "mary",
+      "title": "Mary Had a Little Lamb",
+      "composer": "Traditional",
+      "difficulty": 1,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 21,
+      "hasFingers": true
+    },
+    {
+      "id": "frere-jacques",
+      "title": "Frère Jacques",
+      "composer": "Traditional",
+      "difficulty": 1,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 19,
+      "hasFingers": true
+    },
+    {
+      "id": "row-your-boat",
+      "title": "Row, Row, Row Your Boat",
+      "composer": "Traditional",
+      "difficulty": 1,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 15,
+      "hasFingers": true
+    },
+    {
+      "id": "twinkle",
+      "title": "Twinkle Twinkle Little Star",
+      "composer": "Traditional",
+      "difficulty": 1,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 30,
+      "hasFingers": true
+    },
+    {
+      "id": "london-bridge",
+      "title": "London Bridge Is Falling Down",
+      "composer": "Traditional",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 18,
+      "hasFingers": true
+    },
+    {
+      "id": "old-macdonald",
+      "title": "Old MacDonald Had a Farm",
+      "composer": "Traditional",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 17,
+      "hasFingers": true
+    },
+    {
+      "id": "au-clair",
+      "title": "Au Clair de la Lune",
+      "composer": "Traditional",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 40,
+      "hasFingers": true
+    },
+    {
+      "id": "happy-birthday",
+      "title": "Happy Birthday",
+      "composer": "Traditional",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 15,
+      "hasFingers": true
+    },
+    {
+      "id": "ode-rh",
+      "title": "Ode to Joy",
+      "composer": "Beethoven",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 19,
+      "hasFingers": true
+    },
+    {
+      "id": "jingle-bells",
+      "title": "Jingle Bells",
+      "composer": "James Lord Pierpont",
+      "difficulty": 3,
+      "kind": "song",
+      "hands": "both",
+      "seconds": 32,
+      "hasFingers": true
+    },
+    {
+      "id": "yankee-doodle",
+      "title": "Yankee Doodle",
+      "composer": "Traditional",
+      "difficulty": 3,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 15,
+      "hasFingers": true
+    },
+    {
+      "id": "ode-both",
+      "title": "Ode to Joy (both hands)",
+      "composer": "Beethoven",
+      "difficulty": 3,
+      "kind": "song",
+      "hands": "both",
+      "seconds": 20,
+      "hasFingers": true
+    },
+    {
+      "id": "minuet-g",
+      "title": "Minuet in G",
+      "composer": "Christian Petzold",
+      "difficulty": 4,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 29,
+      "hasFingers": true
+    },
+    {
+      "id": "fur-elise",
+      "title": "Für Elise (opening)",
+      "composer": "Beethoven",
+      "difficulty": 5,
+      "kind": "song",
+      "hands": "both",
+      "seconds": 20,
+      "hasFingers": true
+    },
+    {
+      "id": "cross-over-drill",
+      "title": "Cross Over",
+      "difficulty": 2,
+      "kind": "exercise",
+      "hands": "R",
+      "seconds": 25,
+      "hasFingers": true
+    },
+    {
+      "id": "left-scale",
+      "title": "Left Hand C Scale",
+      "difficulty": 3,
+      "kind": "exercise",
+      "hands": "L",
+      "seconds": 15,
+      "hasFingers": true
+    },
+    {
+      "id": "octave-jump",
+      "title": "Octave Leap",
+      "difficulty": 2,
+      "kind": "exercise",
+      "hands": "R",
+      "seconds": 22,
+      "hasFingers": true
+    },
+    {
+      "id": "position-jump",
+      "title": "Jump to G Position",
+      "difficulty": 2,
+      "kind": "exercise",
+      "hands": "R",
+      "seconds": 24,
+      "hasFingers": true
+    },
+    {
+      "id": "reach-drill",
+      "title": "Reach for It",
+      "difficulty": 1,
+      "kind": "exercise",
+      "hands": "R",
+      "seconds": 22,
+      "hasFingers": true
+    },
+    {
+      "id": "thumb-under-drill",
+      "title": "Thumb Under and Back",
+      "difficulty": 2,
+      "kind": "exercise",
+      "hands": "R",
+      "seconds": 19,
+      "hasFingers": true
+    }
+  ]
+}

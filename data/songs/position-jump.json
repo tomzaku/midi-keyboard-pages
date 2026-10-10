@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "id": "position-jump",
+  "title": "Jump to G Position",
+  "difficulty": 2,
+  "kind": "exercise",
+  "bpm": 76,
+  "tracks": [
+    {
+      "hand": "R",
+      "notation": "C4/1 D4/2 E4/3 F4/4 G4/5:2 r:2 G4/1 A4/2 B4/3 C5/4 D5/5:2 r:2 D5/5 C5/4 B4/3 A4/2 G4/1:2 r:2 G4/5 F4/4 E4/3 D4/2 C4/1:2"
+    }
+  ]
+}

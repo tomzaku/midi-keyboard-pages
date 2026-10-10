@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "id": "find-c",
+  "title": "Finding C",
+  "difficulty": 1,
+  "kind": "exercise",
+  "bpm": 66,
+  "tracks": [
+    {
+      "hand": "R",
+      "notation": "C4/1:2 r:2 C4/1:2 r:2 C5/1:2 r:2 C4/1:4"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "id": "reach-drill",
+  "title": "Reach for It",
+  "difficulty": 1,
+  "kind": "exercise",
+  "bpm": 72,
+  "tracks": [
+    {
+      "hand": "R",
+      "notation": "C4/1 D4/2 E4/3 G4/4 A4/5:2 r:2 A4/5 G4/4 E4/3 D4/2 C4/1:2 r:2 C4/1 E4/3 A4/5:2 G4/4 E4/3 C4/1:4"
+    }
+  ]
+}

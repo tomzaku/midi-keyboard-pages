@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "id": "jingle-bells",
+  "title": "Jingle Bells",
+  "composer": "James Lord Pierpont",
+  "difficulty": 3,
+  "kind": "song",
+  "bpm": 120,
+  "tracks": [
+    {
+      "hand": "R",
+      "notation": "E4/3 E4/3 E4/3:2 E4/3 E4/3 E4/3:2 E4/3 G4/5 C4/1:1.5 D4/2:0.5 E4/3:4 F4/4 F4/4 F4/4:1.5 F4/4:0.5 F4/4 E4/3 E4/3 E4/3:0.5 E4/3:0.5 E4/3 D4/2 D4/2 E4/3 D4/2:2 G4/5:2 E4/3 E4/3 E4/3:2 E4/3 E4/3 E4/3:2 E4/3 G4/5 C4/1:1.5 D4/2:0.5 E4/3:4 F4/4 F4/4 F4/4:1.5 F4/4:0.5 F4/4 E4/3 E4/3 E4/3:0.5 E4/3:0.5 G4/5 G4/5 F4/4 D4/2 C4/1:4"
+    },
+    {
+      "hand": "L",
+      "notation": "C3/5:4 C3/5:4 C3/5:4 C3/5:4 F3/2:4 C3/5:4 G3/1:4 G3/1:4 C3/5:4 C3/5:4 C3/5:4 C3/5:4 F3/2:4 C3/5:4 G3/1:4 C3/5:4"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "id": "triads",
+  "title": "Three-Note Chords",
+  "difficulty": 3,
+  "kind": "exercise",
+  "bpm": 72,
+  "tracks": [
+    {
+      "hand": "R",
+      "notation": "C4/1+E4/3+G4/5:2 C4/1+F4/4+A4/5:2 B3/1+D4/2+G4/5:2 C4/1+E4/3+G4/5:2 C4/1+E4/3+G4/5:2 C4/1+F4/4+A4/5:2 B3/1+D4/2+G4/5:2 C4/1+E4/3+G4/5:4"
+    }
+  ]
+}

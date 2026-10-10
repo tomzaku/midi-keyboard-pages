@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "id": "left-walk",
+  "title": "Left Hand Walk",
+  "difficulty": 1,
+  "kind": "exercise",
+  "bpm": 76,
+  "tracks": [
+    {
+      "hand": "L",
+      "notation": "C3/5 D3/4 E3/3 F3/2 G3/1:2 r:2 G3/1 F3/2 E3/3 D3/4 C3/5:2 r:2 C3/5 E3/3 G3/1 E3/3 C3/5:4"
+    }
+  ]
+}

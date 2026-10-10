@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "id": "thumb-under-drill",
+  "title": "Thumb Under and Back",
+  "difficulty": 2,
+  "kind": "exercise",
+  "bpm": 72,
+  "tracks": [
+    {
+      "hand": "R",
+      "notation": "C4/1 D4/2 E4/3 F4/1:2 r:2 F4/1 E4/3 D4/2 C4/1:2 r:2 C4/1 D4/2 E4/3 F4/1 G4/2 A4/3 B4/4 C5/5:2"
+    }
+  ]
+}

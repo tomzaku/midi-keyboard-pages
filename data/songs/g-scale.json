@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "id": "g-scale",
+  "title": "G Major Scale",
+  "difficulty": 3,
+  "kind": "exercise",
+  "bpm": 88,
+  "tracks": [
+    {
+      "hand": "R",
+      "notation": "G4/1 A4/2 B4/3 C5/1 D5/2 E5/3 F#5/4 G5/5:2 F#5/4 E5/3 D5/2 C5/1 B4/3 A4/2 G4/1:2"
+    }
+  ]
+}
