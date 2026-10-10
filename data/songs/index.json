@@ -303,6 +303,92 @@
       "hands": "R",
       "seconds": 19,
       "hasFingers": true
+    },
+    {
+      "id": "a-minor-five",
+      "title": "A Minor Five Fingers",
+      "difficulty": 2,
+      "kind": "exercise",
+      "hands": "R",
+      "seconds": 23,
+      "hasFingers": true
+    },
+    {
+      "id": "left-chords",
+      "title": "Left Hand Chords",
+      "difficulty": 3,
+      "kind": "exercise",
+      "hands": "L",
+      "seconds": 15,
+      "hasFingers": true
+    },
+    {
+      "id": "left-jump",
+      "title": "Left Hand Jump",
+      "difficulty": 2,
+      "kind": "exercise",
+      "hands": "L",
+      "seconds": 27,
+      "hasFingers": true
+    },
+    {
+      "id": "lightly-row",
+      "title": "Lightly Row",
+      "composer": "Traditional",
+      "difficulty": 1,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 38,
+      "hasFingers": true
+    },
+    {
+      "id": "mary-left",
+      "title": "Mary, Left Hand",
+      "difficulty": 1,
+      "kind": "exercise",
+      "hands": "L",
+      "seconds": 21,
+      "hasFingers": true
+    },
+    {
+      "id": "oh-susanna",
+      "title": "Oh! Susanna",
+      "composer": "Stephen Foster",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 34,
+      "hasFingers": true
+    },
+    {
+      "id": "saints-both",
+      "title": "When the Saints (both hands)",
+      "composer": "Traditional",
+      "difficulty": 3,
+      "kind": "song",
+      "hands": "both",
+      "seconds": 37,
+      "hasFingers": true
+    },
+    {
+      "id": "this-old-man",
+      "title": "This Old Man",
+      "composer": "Traditional",
+      "difficulty": 1,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 22,
+      "hasFingers": true
+    },
+    {
+      "id": "when-saints",
+      "title": "When the Saints Go Marching In",
+      "composer": "Traditional",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 34,
+      "hasFingers": true
     }
   ]
 }

@@ -333,6 +333,53 @@
                   }
                 }
               ]
+            },
+            {
+              "id": "th-eighths",
+              "type": "theory",
+              "title": "Eighths, dots and threes",
+              "goal": "Shorter notes, dotted notes and counting in three.",
+              "pages": [
+                {
+                  "title": "Eighth notes",
+                  "text": [
+                    "An **eighth note** lasts **half a beat**, so two of them fit in one beat.",
+                    "Count them \"1 and 2 and\". In Keyflow they are short bars that come quickly."
+                  ],
+                  "check": {
+                    "type": "choice",
+                    "prompt": "How many eighth notes fit in one beat?",
+                    "options": ["2", "1", "4"],
+                    "answer": 0
+                  }
+                },
+                {
+                  "title": "Dotted notes",
+                  "text": [
+                    "A **dot** after a note adds **half its length**.",
+                    "A dotted half note lasts **3 beats**; a dotted quarter lasts **1½ beats**, often followed by a quick eighth."
+                  ],
+                  "check": {
+                    "type": "choice",
+                    "prompt": "A dotted half note lasts…",
+                    "options": ["3 beats", "2 beats", "1½ beats"],
+                    "answer": 0
+                  }
+                },
+                {
+                  "title": "Counting in three",
+                  "text": [
+                    "Most songs count in **fours**, but some count in **threes**: **ONE** two three, **ONE** two three.",
+                    "This is **3/4 time**, the waltz feel of Happy Birthday and the Minuet in G."
+                  ],
+                  "check": {
+                    "type": "choice",
+                    "prompt": "In 3/4 time, each bar has…",
+                    "options": ["3 beats", "4 beats", "2 beats"],
+                    "answer": 0
+                  }
+                }
+              ]
             }
           ]
         },
@@ -503,6 +550,64 @@
               ]
             }
           ]
+        },
+        {
+          "id": "th-m8",
+          "title": "Major and minor",
+          "goal": "Hear the difference between bright and dark chords.",
+          "lessons": [
+            {
+              "id": "th-minor",
+              "type": "theory",
+              "title": "Bright and dark",
+              "goal": "Turn a major chord into a minor one.",
+              "pages": [
+                {
+                  "title": "Major sounds bright",
+                  "text": ["The C chord you know, **C E G**, is a **major** chord. It sounds bright and happy."],
+                  "keys": [
+                    { "note": "C4", "finger": 1 },
+                    { "note": "E4", "finger": 3 },
+                    { "note": "G4", "finger": 5 }
+                  ],
+                  "check": { "type": "chord", "prompt": "Play C major: C, E and G.", "notes": ["C4", "E4", "G4"] }
+                },
+                {
+                  "title": "Minor sounds dark",
+                  "text": [
+                    "Lower the **middle note** by one key: **C E♭ G** is **C minor**.",
+                    "Listen: the same chord now sounds darker, a little sad."
+                  ],
+                  "keys": [
+                    { "note": "C4", "finger": 1 },
+                    { "note": "Eb4", "finger": 3, "label": "E♭" },
+                    { "note": "G4", "finger": 5 }
+                  ],
+                  "check": { "type": "chord", "prompt": "Play C minor: C, E♭ and G.", "notes": ["C4", "Eb4", "G4"] }
+                },
+                {
+                  "title": "A minor",
+                  "text": ["**A C E** uses only white keys. It is **A minor**, the minor key next door to C major."],
+                  "keys": [
+                    { "note": "A3", "finger": 1 },
+                    { "note": "C4", "finger": 3 },
+                    { "note": "E4", "finger": 5 }
+                  ],
+                  "check": { "type": "chord", "prompt": "Play A minor: A, C and E.", "notes": ["A3", "C4", "E4"] }
+                },
+                {
+                  "title": "Hear the difference",
+                  "text": ["Major and minor differ only in the middle note. Play both and listen."],
+                  "check": {
+                    "type": "choice",
+                    "prompt": "To turn C major into C minor you…",
+                    "options": ["Lower the middle note one key", "Raise the top note one key", "Add a fourth note"],
+                    "answer": 0
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -542,6 +647,14 @@
               "mode": "wait"
             },
             {
+              "id": "l1-lightly",
+              "type": "play",
+              "title": "Lightly Row",
+              "goal": "All five fingers in C position.",
+              "songId": "lightly-row",
+              "mode": "wait"
+            },
+            {
               "id": "l1-twinkle",
               "type": "play",
               "title": "Twinkle Twinkle",
@@ -563,6 +676,15 @@
               "goal": "The left hand plays low notes. Pinky starts on C.",
               "songId": "left-walk",
               "mode": "wait"
+            },
+            {
+              "id": "l2-mary-left",
+              "type": "play",
+              "title": "Mary, Left Hand",
+              "goal": "A song you know, now with your left hand.",
+              "songId": "mary-left",
+              "mode": "wait",
+              "hands": "L"
             },
             {
               "id": "l2-ode",
@@ -625,6 +747,24 @@
               "speed": 0.85
             },
             {
+              "id": "l3-saints",
+              "type": "play",
+              "title": "When the Saints",
+              "goal": "Rests before each phrase: count, then come in.",
+              "songId": "when-saints",
+              "mode": "play",
+              "speed": 0.85
+            },
+            {
+              "id": "l3-susanna",
+              "type": "play",
+              "title": "Oh! Susanna",
+              "goal": "Long-short dotted rhythms that bounce.",
+              "songId": "oh-susanna",
+              "mode": "play",
+              "speed": 0.8
+            },
+            {
               "id": "l3-ode",
               "type": "play",
               "title": "Ode to Joy in Time",
@@ -666,6 +806,15 @@
               "mode": "play",
               "speed": 0.85,
               "labels": false
+            },
+            {
+              "id": "l4-minor",
+              "type": "play",
+              "title": "A Minor Five Fingers",
+              "goal": "Your first minor position, then major vs minor chords.",
+              "songId": "a-minor-five",
+              "mode": "play",
+              "speed": 0.85
             }
           ]
         },
@@ -691,6 +840,15 @@
               "mode": "play"
             },
             {
+              "id": "l5-left-chords",
+              "type": "play",
+              "title": "Left Hand Chords",
+              "goal": "The same three chords, now in the left hand.",
+              "songId": "left-chords",
+              "mode": "wait",
+              "hands": "L"
+            },
+            {
               "id": "l5-bass",
               "type": "play",
               "title": "Chords with Bass",
@@ -698,6 +856,15 @@
               "songId": "chord-song",
               "mode": "play",
               "speed": 0.85
+            },
+            {
+              "id": "l5-saints-both",
+              "type": "play",
+              "title": "When the Saints: together",
+              "goal": "Melody on top, steady bass below.",
+              "songId": "saints-both",
+              "mode": "play",
+              "speed": 0.8
             }
           ]
         },
@@ -765,6 +932,14 @@
               "title": "Twinkle Reaches",
               "goal": "Spot the +1 reaches in a song you know.",
               "songId": "twinkle",
+              "mode": "wait"
+            },
+            {
+              "id": "mv-old-man",
+              "type": "play",
+              "title": "This Old Man",
+              "goal": "Reach finger 5 up to A, then back to C position.",
+              "songId": "this-old-man",
               "mode": "wait"
             }
           ]
@@ -851,6 +1026,15 @@
           "title": "Left hand moves",
           "goal": "The same moves, mirrored, in the left hand.",
           "lessons": [
+            {
+              "id": "mv-left-jump",
+              "type": "play",
+              "title": "Left Hand Jump",
+              "goal": "Move your left hand from C down to G position (Hand −3) and back.",
+              "songId": "left-jump",
+              "mode": "wait",
+              "hands": "L"
+            },
             {
               "id": "mv-left",
               "type": "play",

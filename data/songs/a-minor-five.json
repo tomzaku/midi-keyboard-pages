@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "id": "a-minor-five",
+  "title": "A Minor Five Fingers",
+  "difficulty": 2,
+  "kind": "exercise",
+  "bpm": 84,
+  "tracks": [
+    {
+      "hand": "R",
+      "notation": "A4/1 B4/2 C5/3 D5/4 E5/5 D5/4 C5/3 B4/2 A4/1:2 r:2 A4/1 C5/3 E5/5 C5/3 A4/1:2 r:2 A4/1+C5/3+E5/5:2 r:2 C4/1+E4/3+G4/5:2 r:2 A4/1+C5/3+E5/5:4"
+    }
+  ]
+}
