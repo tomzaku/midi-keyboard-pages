@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "id": "michael-row",
+  "title": "Michael, Row the Boat Ashore",
+  "composer": "Traditional",
+  "difficulty": 2,
+  "kind": "song",
+  "bpm": 96,
+  "tracks": [
+    {
+      "hand": "R",
+      "notation": "C4/1 E4/3 G4/5:1.5 E4/3:0.5 G4/4 A4/5 G4/4:2 E4/3 G4/4 A4/5 G4/4:3 r:2 E4/3 G4/5 G4/5:1.5 E4/3:0.5 F4/4 E4/3 D4/2:2 C4/1 D4/2 E4/3:1.5 D4/2:0.5 C4/1:4"
+    }
+  ]
+}

@@ -389,6 +389,36 @@
       "hands": "R",
       "seconds": 34,
       "hasFingers": true
+    },
+    {
+      "id": "auld-lang-syne",
+      "title": "Auld Lang Syne",
+      "composer": "Traditional",
+      "difficulty": 3,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 23,
+      "hasFingers": true
+    },
+    {
+      "id": "michael-row",
+      "title": "Michael, Row the Boat Ashore",
+      "composer": "Traditional",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 20,
+      "hasFingers": true
+    },
+    {
+      "id": "mockingbird",
+      "title": "Hush, Little Baby (Mockingbird)",
+      "composer": "Traditional",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 22,
+      "hasFingers": true
     }
   ]
 }
