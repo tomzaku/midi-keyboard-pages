@@ -440,6 +440,14 @@
                 {
                   "title": "Five fingers, many keys",
                   "text": ["One hand covers about **five keys**. Songs go further, so your hand has to move."],
+                  "hand": "R",
+                  "keys": [
+                    { "note": "C4", "finger": 1 },
+                    { "note": "D4", "finger": 2 },
+                    { "note": "E4", "finger": 3 },
+                    { "note": "F4", "finger": 4 },
+                    { "note": "G4", "finger": 5 }
+                  ],
                   "check": {
                     "type": "choice",
                     "prompt": "Without moving, one hand covers about…",
@@ -453,6 +461,7 @@
                     "A finger can **stretch one key** without moving the hand.",
                     "Keyflow shows this on the note as **+1 →** (reach one key right) or **← −1**."
                   ],
+                  "hand": "R",
                   "keys": [
                     { "note": "C4", "finger": 1 },
                     { "note": "G4", "finger": 4 },
@@ -469,11 +478,13 @@
                   "text": [
                     "Going up a scale, after finger 3 the **thumb slides under** to the next key. The hand moves along with it."
                   ],
+                  "hand": "R",
                   "keys": [
                     { "note": "C4", "finger": 1 },
                     { "note": "D4", "finger": 2 },
                     { "note": "E4", "finger": 3 },
-                    { "note": "F4", "finger": 1 }
+                    { "note": "F4", "finger": 1 },
+                    { "note": "G4", "finger": 2 }
                   ],
                   "check": {
                     "type": "press",
@@ -484,9 +495,13 @@
                 {
                   "title": "Cross over",
                   "text": ["Coming back down, **finger 3 crosses over** the thumb, and the hand moves back."],
+                  "hand": "R",
                   "keys": [
+                    { "note": "G4", "finger": 2 },
                     { "note": "F4", "finger": 1 },
-                    { "note": "E4", "finger": 3 }
+                    { "note": "E4", "finger": 3 },
+                    { "note": "D4", "finger": 2 },
+                    { "note": "C4", "finger": 1 }
                   ],
                   "check": {
                     "type": "choice",
@@ -501,6 +516,15 @@
                     "**+1 →** on a note: reach that finger one key to the right.",
                     "**Hand +4**: move your whole hand four keys to the right.",
                     "A **dashed outline** and the hand at the bottom show the move before it happens."
+                  ],
+                  "hand": "R",
+                  "keys": [
+                    { "note": "C4", "finger": 1 },
+                    { "note": "E4", "finger": 3 },
+                    { "note": "G4", "finger": 5 },
+                    { "note": "G4", "finger": 1 },
+                    { "note": "B4", "finger": 3 },
+                    { "note": "D5", "finger": 5 }
                   ],
                   "check": {
                     "type": "choice",
