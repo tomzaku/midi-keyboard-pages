@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "id": "eine-kleine-nachtmusik",
+  "title": "Eine kleine Nachtmusik",
+  "composer": "Mozart",
+  "difficulty": 3,
+  "kind": "song",
+  "bpm": 120,
+  "tracks": [
+    {
+      "hand": "R",
+      "notation": "G4/4 r:0.5 D4/1:0.5 G4/4 r:0.5 D4/1:0.5 G4/4:0.5 D4/1:0.5 G4/4:0.5 B4/2:0.5 D5/4:2 C5/3 r:0.5 A4/1:0.5 C5/3 r:0.5 A4/1:0.5 C5/3:0.5 A4/1:0.5 F#4/3:0.5 A4/5:0.5 D4/1:2"
+    }
+  ]
+}

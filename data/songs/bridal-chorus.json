@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "id": "bridal-chorus",
+  "title": "Bridal Chorus (Here Comes the Bride)",
+  "composer": "Wagner",
+  "difficulty": 2,
+  "kind": "song",
+  "bpm": 72,
+  "tracks": [
+    {
+      "hand": "R",
+      "notation": "C4/1 F4/4:0.75 F4/4:0.25 F4/4:2 C4/1 G4/5:0.75 E4/3:0.25 F4/4:2 C4/1 F4/4:0.75 A#4/5:0.25 A#4/5 A4/5:0.75 G4/5:0.25 F4/4:0.75 E4/3:0.25 F4/4:0.75 G4/5:0.25 F4/4:2 C4/1 F4/4:0.75 F4/4:0.25 F4/4:2 C4/1 G4/5:0.75 E4/3:0.25 F4/4:2 C4/1 F4/4:0.75 A#4/4:0.25 A#4/4 A4/4:0.75 G4/3:0.25 F4/2:0.75 E4/1:0.25 F4/2:0.75 G4/3:0.25 F4/2:2"
+    }
+  ]
+}

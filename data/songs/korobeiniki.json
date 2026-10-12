@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "id": "korobeiniki",
+  "title": "Korobeiniki (Tetris Theme)",
+  "composer": "Traditional",
+  "difficulty": 3,
+  "kind": "song",
+  "bpm": 140,
+  "tracks": [
+    {
+      "hand": "R",
+      "notation": "E5/5 B4/2:0.5 C5/3:0.5 D5/4 C5/3:0.5 B4/2:0.5 A4/1 A4/1:0.5 C5/3:0.5 E5/5 D5/4:0.5 C5/3:0.5 B4/2:1.5 C5/3:0.5 D5/4 E5/5 C5/3 A4/1 A4/1:2 r:0.5 D5/4 F5/2:0.5 A5/4 G5/3:0.5 F5/2:0.5 E5/1:1.5 C5/3:0.5 E5/5 D5/4:0.5 C5/3:0.5 B4/2 B4/2:0.5 C5/3:0.5 D5/4 E5/5 C5/3 A4/1 A4/1:2"
+    }
+  ]
+}
