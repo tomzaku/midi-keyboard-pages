@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "id": "doxology",
+  "title": "Old Hundredth (Doxology)",
+  "composer": "Bourgeois",
+  "difficulty": 2,
+  "kind": "song",
+  "bpm": 84,
+  "tracks": [
+    {
+      "hand": "R",
+      "notation": "G4/4 G4/4 F#4/3 E4/2 D4/1:2 G4/1 A4/2 B4/3:2 B4/3 B4/3 B4/3 A4/2 G4/1 C5/4 B4/3 A4/2:2 G4/1 A4/2 B4/3 A4/2 G4/1 E4/2 F#4/3 G4/4:2 D4/1 G4/4 F#4/3 E4/2 D4/1 G4/4 A4/5 G4/4:4"
+    }
+  ]
+}

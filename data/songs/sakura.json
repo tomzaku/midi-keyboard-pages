@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "id": "sakura",
+  "title": "Sakura Sakura",
+  "composer": "Japanese folk song",
+  "difficulty": 2,
+  "kind": "song",
+  "bpm": 72,
+  "tracks": [
+    {
+      "hand": "R",
+      "notation": "A4/3 A4/3 B4/4:2 A4/3 A4/3 B4/4:2 A4/3 B4/4 C5/5 B4/4 A4/3 B4/4:0.5 A4/3:0.5 F4/1:2 E4/4 C4/2 E4/4 F4/5 E4/4 E4/4:0.5 C4/2:0.5 B3/1:2 A4/3 B4/4 C5/5 B4/4 A4/3 B4/4:0.5 A4/3:0.5 F4/1:2 E4/4 C4/2 E4/4 F4/5 E4/4 E4/4:0.5 C4/2:0.5 B3/1:2 A4/4 A4/4 B4/5:2 A4/4 A4/4 B4/5:2 E4/1 F4/2 B4/5:0.5 A4/4:0.5 F4/2 E4/1:4"
+    }
+  ]
+}

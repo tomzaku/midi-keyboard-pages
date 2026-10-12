@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "id": "amazing-grace",
+  "title": "Amazing Grace",
+  "composer": "Traditional",
+  "difficulty": 2,
+  "kind": "song",
+  "bpm": 84,
+  "tracks": [
+    {
+      "hand": "R",
+      "notation": "C4/1 F4/4:2 A4/5:0.5 F4/4:0.5 A4/5:2 G4/5 F4/4:2 D4/2 C4/1:2 C4/1 F4/1:2 A4/3:0.5 F4/1:0.5 A4/3:2 G4/2 C5/5:5 A4/3 C5/5:2 A4/3:0.5 F4/1:0.5 A4/3:2 G4/2 F4/1:2 D4/2 C4/1:2 C4/1 F4/4:2 A4/5:0.5 F4/4:0.5 A4/5:2 G4/5 F4/4:5"
+    }
+  ]
+}

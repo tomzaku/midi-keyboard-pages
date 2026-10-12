@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "id": "kumbaya",
+  "title": "Kumbaya",
+  "composer": "Traditional",
+  "difficulty": 1,
+  "kind": "song",
+  "bpm": 92,
+  "tracks": [
+    {
+      "hand": "R",
+      "notation": "C4/1 E4/3 G4/5 G4/5 G4/5:2 A4/5 A4/5 G4/4:4 C4/1 E4/3 G4/5 G4/5 G4/5:2 F4/4 E4/3 D4/2:4 C4/1 E4/3 G4/5 G4/5 G4/5:2 A4/5 A4/5 G4/5:4 F4/4:2 E4/3:2 D4/2 D4/2 C4/1:6"
+    }
+  ]
+}

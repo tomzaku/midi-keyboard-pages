@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "id": "my-bonnie",
+  "title": "My Bonnie Lies Over the Ocean",
+  "composer": "Traditional",
+  "difficulty": 2,
+  "kind": "song",
+  "bpm": 104,
+  "tracks": [
+    {
+      "hand": "R",
+      "notation": "G4/1 E5/5:1.5 D5/5:0.5 C5/4 D5/5 C5/4 A4/2 G4/1 E4/2 G4/1 E5/5:1.5 D5/5:0.5 C5/4 C5/4 B4/3 C5/4 D5/5:2 G4/1 E5/5:1.5 D5/5:0.5 C5/4 D5/5 C5/4 A4/2 G4/1 E4/2 G4/1 A4/2 D5/5 C5/4 B4/3:1.5 A4/2:0.5 B4/3 C5/4:3"
+    }
+  ]
+}

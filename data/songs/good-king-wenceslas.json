@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "id": "good-king-wenceslas",
+  "title": "Good King Wenceslas",
+  "composer": "Traditional",
+  "difficulty": 2,
+  "kind": "song",
+  "bpm": 104,
+  "tracks": [
+    {
+      "hand": "R",
+      "notation": "G4/4 G4/4 G4/4 A4/5 G4/4 G4/4 D4/1:2 E4/2 D4/1 E4/2 F#4/3 G4/4:2 G4/4:2 G4/4 G4/4 G4/4 A4/5 G4/4 G4/4 D4/1:2 E4/2 D4/1 E4/2 F#4/3 G4/4:2 G4/4:2"
+    }
+  ]
+}

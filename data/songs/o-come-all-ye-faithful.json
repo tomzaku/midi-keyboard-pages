@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "id": "o-come-all-ye-faithful",
+  "title": "O Come, All Ye Faithful",
+  "composer": "Wade",
+  "difficulty": 2,
+  "kind": "song",
+  "bpm": 96,
+  "tracks": [
+    {
+      "hand": "R",
+      "notation": "G4/4 G4/4:2 D4/1 G4/4 A4/5:2 D4/1:2 B4/2 A4/1 B4/2 C5/3 B4/2:2 A4/1 G4/4 G4/4:2 F#4/3 E4/2 F#4/3 G4/4 A4/5 B4/5 F#4/3:1.5 E4/2:0.5 D4/1:3"
+    }
+  ]
+}

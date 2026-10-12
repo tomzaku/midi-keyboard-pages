@@ -8,6 +8,7 @@
       "kind": "exercise",
       "hands": "R",
       "seconds": 12,
+      "keys": 10,
       "hasFingers": true
     },
     {
@@ -17,6 +18,7 @@
       "kind": "exercise",
       "hands": "R",
       "seconds": 15,
+      "keys": 4,
       "hasFingers": true
     },
     {
@@ -26,6 +28,7 @@
       "kind": "exercise",
       "hands": "L",
       "seconds": 19,
+      "keys": 15,
       "hasFingers": true
     },
     {
@@ -35,6 +38,7 @@
       "kind": "exercise",
       "hands": "R",
       "seconds": 18,
+      "keys": 14,
       "hasFingers": true
     },
     {
@@ -44,6 +48,7 @@
       "kind": "exercise",
       "hands": "R",
       "seconds": 16,
+      "keys": 12,
       "hasFingers": true
     },
     {
@@ -53,6 +58,7 @@
       "kind": "exercise",
       "hands": "R",
       "seconds": 12,
+      "keys": 15,
       "hasFingers": true
     },
     {
@@ -62,6 +68,7 @@
       "kind": "exercise",
       "hands": "R",
       "seconds": 12,
+      "keys": 15,
       "hasFingers": true
     },
     {
@@ -71,6 +78,7 @@
       "kind": "exercise",
       "hands": "R",
       "seconds": 14,
+      "keys": 15,
       "hasFingers": true
     },
     {
@@ -80,6 +88,7 @@
       "kind": "exercise",
       "hands": "R",
       "seconds": 15,
+      "keys": 24,
       "hasFingers": true
     },
     {
@@ -89,6 +98,7 @@
       "kind": "exercise",
       "hands": "both",
       "seconds": 13,
+      "keys": 32,
       "hasFingers": true
     },
     {
@@ -98,6 +108,7 @@
       "kind": "exercise",
       "hands": "both",
       "seconds": 17,
+      "keys": 57,
       "hasFingers": true
     },
     {
@@ -108,6 +119,7 @@
       "kind": "song",
       "hands": "R",
       "seconds": 10,
+      "keys": 17,
       "hasFingers": true
     },
     {
@@ -118,6 +130,7 @@
       "kind": "song",
       "hands": "R",
       "seconds": 21,
+      "keys": 26,
       "hasFingers": true
     },
     {
@@ -128,6 +141,7 @@
       "kind": "song",
       "hands": "R",
       "seconds": 19,
+      "keys": 32,
       "hasFingers": true
     },
     {
@@ -138,6 +152,7 @@
       "kind": "song",
       "hands": "R",
       "seconds": 15,
+      "keys": 27,
       "hasFingers": true
     },
     {
@@ -148,6 +163,7 @@
       "kind": "song",
       "hands": "R",
       "seconds": 30,
+      "keys": 42,
       "hasFingers": true
     },
     {
@@ -158,6 +174,7 @@
       "kind": "song",
       "hands": "R",
       "seconds": 18,
+      "keys": 24,
       "hasFingers": true
     },
     {
@@ -168,6 +185,7 @@
       "kind": "song",
       "hands": "R",
       "seconds": 17,
+      "keys": 25,
       "hasFingers": true
     },
     {
@@ -178,6 +196,7 @@
       "kind": "song",
       "hands": "R",
       "seconds": 40,
+      "keys": 44,
       "hasFingers": true
     },
     {
@@ -188,6 +207,7 @@
       "kind": "song",
       "hands": "R",
       "seconds": 15,
+      "keys": 25,
       "hasFingers": true
     },
     {
@@ -198,6 +218,7 @@
       "kind": "song",
       "hands": "R",
       "seconds": 19,
+      "keys": 30,
       "hasFingers": true
     },
     {
@@ -208,6 +229,7 @@
       "kind": "song",
       "hands": "both",
       "seconds": 32,
+      "keys": 67,
       "hasFingers": true
     },
     {
@@ -218,6 +240,7 @@
       "kind": "song",
       "hands": "R",
       "seconds": 15,
+      "keys": 28,
       "hasFingers": true
     },
     {
@@ -228,6 +251,7 @@
       "kind": "song",
       "hands": "both",
       "seconds": 20,
+      "keys": 39,
       "hasFingers": true
     },
     {
@@ -238,6 +262,7 @@
       "kind": "song",
       "hands": "R",
       "seconds": 29,
+      "keys": 64,
       "hasFingers": true
     },
     {
@@ -248,6 +273,7 @@
       "kind": "song",
       "hands": "both",
       "seconds": 20,
+      "keys": 53,
       "hasFingers": true
     },
     {
@@ -257,6 +283,7 @@
       "kind": "exercise",
       "hands": "R",
       "seconds": 25,
+      "keys": 20,
       "hasFingers": true
     },
     {
@@ -266,6 +293,7 @@
       "kind": "exercise",
       "hands": "L",
       "seconds": 15,
+      "keys": 16,
       "hasFingers": true
     },
     {
@@ -275,6 +303,7 @@
       "kind": "exercise",
       "hands": "R",
       "seconds": 22,
+      "keys": 18,
       "hasFingers": true
     },
     {
@@ -284,6 +313,7 @@
       "kind": "exercise",
       "hands": "R",
       "seconds": 24,
+      "keys": 20,
       "hasFingers": true
     },
     {
@@ -293,6 +323,7 @@
       "kind": "exercise",
       "hands": "R",
       "seconds": 22,
+      "keys": 16,
       "hasFingers": true
     },
     {
@@ -302,6 +333,7 @@
       "kind": "exercise",
       "hands": "R",
       "seconds": 19,
+      "keys": 16,
       "hasFingers": true
     },
     {
@@ -311,6 +343,7 @@
       "kind": "exercise",
       "hands": "R",
       "seconds": 23,
+      "keys": 23,
       "hasFingers": true
     },
     {
@@ -320,6 +353,7 @@
       "kind": "exercise",
       "hands": "L",
       "seconds": 15,
+      "keys": 24,
       "hasFingers": true
     },
     {
@@ -329,6 +363,7 @@
       "kind": "exercise",
       "hands": "L",
       "seconds": 27,
+      "keys": 25,
       "hasFingers": true
     },
     {
@@ -339,6 +374,7 @@
       "kind": "song",
       "hands": "R",
       "seconds": 38,
+      "keys": 49,
       "hasFingers": true
     },
     {
@@ -348,6 +384,7 @@
       "kind": "exercise",
       "hands": "L",
       "seconds": 21,
+      "keys": 26,
       "hasFingers": true
     },
     {
@@ -358,6 +395,7 @@
       "kind": "song",
       "hands": "R",
       "seconds": 34,
+      "keys": 55,
       "hasFingers": true
     },
     {
@@ -368,6 +406,7 @@
       "kind": "song",
       "hands": "both",
       "seconds": 37,
+      "keys": 48,
       "hasFingers": true
     },
     {
@@ -378,6 +417,7 @@
       "kind": "song",
       "hands": "R",
       "seconds": 22,
+      "keys": 32,
       "hasFingers": true
     },
     {
@@ -388,6 +428,7 @@
       "kind": "song",
       "hands": "R",
       "seconds": 34,
+      "keys": 32,
       "hasFingers": true
     },
     {
@@ -398,6 +439,7 @@
       "kind": "song",
       "hands": "R",
       "seconds": 23,
+      "keys": 28,
       "hasFingers": true
     },
     {
@@ -408,6 +450,7 @@
       "kind": "song",
       "hands": "R",
       "seconds": 20,
+      "keys": 23,
       "hasFingers": true
     },
     {
@@ -418,6 +461,568 @@
       "kind": "song",
       "hands": "R",
       "seconds": 22,
+      "keys": 38,
+      "hasFingers": true
+    },
+    {
+      "id": "amazing-grace",
+      "title": "Amazing Grace",
+      "composer": "Traditional",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 34,
+      "keys": 32,
+      "hasFingers": true
+    },
+    {
+      "id": "brahms-lullaby",
+      "title": "Lullaby",
+      "composer": "Brahms",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 30,
+      "keys": 51,
+      "hasFingers": true
+    },
+    {
+      "id": "can-can",
+      "title": "Can-Can",
+      "composer": "Offenbach",
+      "difficulty": 4,
+      "kind": "song",
+      "hands": "both",
+      "seconds": 14,
+      "keys": 91,
+      "hasFingers": true
+    },
+    {
+      "id": "canon-in-d",
+      "title": "Canon in D",
+      "composer": "Pachelbel",
+      "difficulty": 3,
+      "kind": "song",
+      "hands": "both",
+      "seconds": 43,
+      "keys": 60,
+      "hasFingers": true
+    },
+    {
+      "id": "clementine",
+      "title": "Oh My Darling, Clementine",
+      "composer": "Traditional",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 29,
+      "keys": 60,
+      "hasFingers": true
+    },
+    {
+      "id": "deck-the-halls",
+      "title": "Deck the Halls",
+      "composer": "Traditional",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 36,
+      "keys": 68,
+      "hasFingers": true
+    },
+    {
+      "id": "go-tell-aunt-rhody",
+      "title": "Go Tell Aunt Rhody",
+      "composer": "Traditional",
+      "difficulty": 1,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 14,
+      "keys": 20,
+      "hasFingers": true
+    },
+    {
+      "id": "goin-home",
+      "title": "Largo (Goin’ Home)",
+      "composer": "Dvořák",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 32,
+      "keys": 22,
+      "hasFingers": true
+    },
+    {
+      "id": "greensleeves",
+      "title": "Greensleeves",
+      "composer": "Traditional",
+      "difficulty": 4,
+      "kind": "song",
+      "hands": "both",
+      "seconds": 27,
+      "keys": 88,
+      "hasFingers": true
+    },
+    {
+      "id": "kumbaya",
+      "title": "Kumbaya",
+      "composer": "Traditional",
+      "difficulty": 1,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 31,
+      "keys": 29,
+      "hasFingers": true
+    },
+    {
+      "id": "morning-mood",
+      "title": "Morning Mood",
+      "composer": "Grieg",
+      "difficulty": 3,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 17,
+      "keys": 48,
+      "hasFingers": true
+    },
+    {
+      "id": "mountain-king",
+      "title": "In the Hall of the Mountain King",
+      "composer": "Grieg",
+      "difficulty": 3,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 26,
+      "keys": 78,
+      "hasFingers": true
+    },
+    {
+      "id": "o-christmas-tree",
+      "title": "O Christmas Tree",
+      "composer": "Traditional",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 27,
+      "keys": 45,
+      "hasFingers": true
+    },
+    {
+      "id": "prelude-in-c",
+      "title": "Prelude in C",
+      "composer": "J. S. Bach",
+      "difficulty": 4,
+      "kind": "song",
+      "hands": "both",
+      "seconds": 44,
+      "keys": 181,
+      "hasFingers": true
+    },
+    {
+      "id": "rain-rain",
+      "title": "Rain, Rain, Go Away",
+      "composer": "Traditional",
+      "difficulty": 1,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 14,
+      "keys": 38,
+      "hasFingers": true
+    },
+    {
+      "id": "sakura",
+      "title": "Sakura Sakura",
+      "composer": "Japanese folk song",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 47,
+      "keys": 50,
+      "hasFingers": true
+    },
+    {
+      "id": "scarborough-fair",
+      "title": "Scarborough Fair",
+      "composer": "Traditional",
+      "difficulty": 3,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 31,
+      "keys": 35,
+      "hasFingers": true
+    },
+    {
+      "id": "silent-night",
+      "title": "Silent Night",
+      "composer": "Gruber",
+      "difficulty": 3,
+      "kind": "song",
+      "hands": "both",
+      "seconds": 54,
+      "keys": 59,
+      "hasFingers": true
+    },
+    {
+      "id": "the-entertainer",
+      "title": "The Entertainer",
+      "composer": "Scott Joplin",
+      "difficulty": 4,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 33,
+      "keys": 54,
+      "hasFingers": true
+    },
+    {
+      "id": "we-wish-you",
+      "title": "We Wish You a Merry Christmas",
+      "composer": "Traditional",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 25,
+      "keys": 52,
+      "hasFingers": true
+    },
+    {
+      "id": "alouette",
+      "title": "Alouette",
+      "composer": "Traditional",
+      "difficulty": 1,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 18,
+      "keys": 38,
+      "hasFingers": true
+    },
+    {
+      "id": "bumblebee",
+      "title": "Flight of the Bumblebee",
+      "composer": "Rimsky-Korsakov",
+      "difficulty": 5,
+      "kind": "song",
+      "hands": "both",
+      "seconds": 21,
+      "keys": 155,
+      "hasFingers": true
+    },
+    {
+      "id": "funeral-march",
+      "title": "Funeral March",
+      "composer": "Chopin",
+      "difficulty": 3,
+      "kind": "song",
+      "hands": "both",
+      "seconds": 20,
+      "keys": 57,
+      "hasFingers": true
+    },
+    {
+      "id": "jesu-joy",
+      "title": "Jesu, Joy of Man’s Desiring",
+      "composer": "J. S. Bach",
+      "difficulty": 3,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 18,
+      "keys": 61,
+      "hasFingers": true
+    },
+    {
+      "id": "joy-to-the-world",
+      "title": "Joy to the World",
+      "composer": "Handel / Mason",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 28,
+      "keys": 55,
+      "hasFingers": true
+    },
+    {
+      "id": "moonlight-sonata",
+      "title": "Moonlight Sonata (opening)",
+      "composer": "Beethoven",
+      "difficulty": 3,
+      "kind": "song",
+      "hands": "both",
+      "seconds": 21,
+      "keys": 63,
+      "hasFingers": true
+    },
+    {
+      "id": "rondo-alla-turca",
+      "title": "Rondo alla Turca",
+      "composer": "Mozart",
+      "difficulty": 5,
+      "kind": "song",
+      "hands": "both",
+      "seconds": 13,
+      "keys": 129,
+      "hasFingers": true
+    },
+    {
+      "id": "symphony-40",
+      "title": "Symphony No. 40 (opening)",
+      "composer": "Mozart",
+      "difficulty": 3,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 17,
+      "keys": 40,
+      "hasFingers": true
+    },
+    {
+      "id": "symphony-5",
+      "title": "Symphony No. 5 (opening)",
+      "composer": "Beethoven",
+      "difficulty": 3,
+      "kind": "song",
+      "hands": "both",
+      "seconds": 18,
+      "keys": 64,
+      "hasFingers": true
+    },
+    {
+      "id": "toccata-d-minor",
+      "title": "Toccata in D Minor",
+      "composer": "J. S. Bach",
+      "difficulty": 5,
+      "kind": "song",
+      "hands": "both",
+      "seconds": 25,
+      "keys": 62,
+      "hasFingers": true
+    },
+    {
+      "id": "good-king-wenceslas",
+      "title": "Good King Wenceslas",
+      "composer": "Traditional",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 18,
+      "keys": 26,
+      "hasFingers": true
+    },
+    {
+      "id": "hark-the-herald",
+      "title": "Hark! The Herald Angels Sing",
+      "composer": "Mendelssohn",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 18,
+      "keys": 30,
+      "hasFingers": true
+    },
+    {
+      "id": "invention-1",
+      "title": "Invention No. 1 in C",
+      "composer": "J. S. Bach",
+      "difficulty": 5,
+      "kind": "song",
+      "hands": "both",
+      "seconds": 17,
+      "keys": 91,
+      "hasFingers": true
+    },
+    {
+      "id": "itsy-bitsy-spider",
+      "title": "Itsy Bitsy Spider",
+      "composer": "Traditional",
+      "difficulty": 1,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 26,
+      "keys": 45,
+      "hasFingers": true
+    },
+    {
+      "id": "moonlight-presto",
+      "title": "Moonlight Sonata, 3rd movement",
+      "composer": "Beethoven",
+      "difficulty": 5,
+      "kind": "song",
+      "hands": "both",
+      "seconds": 16,
+      "keys": 181,
+      "hasFingers": true
+    },
+    {
+      "id": "mountain-king-presto",
+      "title": "Mountain King (presto, octaves)",
+      "composer": "Grieg",
+      "difficulty": 5,
+      "kind": "song",
+      "hands": "both",
+      "seconds": 32,
+      "keys": 538,
+      "hasFingers": true
+    },
+    {
+      "id": "mulberry-bush",
+      "title": "Here We Go Round the Mulberry Bush",
+      "composer": "Traditional",
+      "difficulty": 1,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 14,
+      "keys": 22,
+      "hasFingers": true
+    },
+    {
+      "id": "my-bonnie",
+      "title": "My Bonnie Lies Over the Ocean",
+      "composer": "Traditional",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 21,
+      "keys": 34,
+      "hasFingers": true
+    },
+    {
+      "id": "o-come-all-ye-faithful",
+      "title": "O Come, All Ye Faithful",
+      "composer": "Wade",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 19,
+      "keys": 23,
+      "hasFingers": true
+    },
+    {
+      "id": "paganini-caprice-24",
+      "title": "Caprice No. 24",
+      "composer": "Paganini",
+      "difficulty": 5,
+      "kind": "song",
+      "hands": "both",
+      "seconds": 29,
+      "keys": 204,
+      "hasFingers": true
+    },
+    {
+      "id": "sonata-k545",
+      "title": "Sonata in C, K. 545",
+      "composer": "Mozart",
+      "difficulty": 5,
+      "kind": "song",
+      "hands": "both",
+      "seconds": 16,
+      "keys": 119,
+      "hasFingers": true
+    },
+    {
+      "id": "wheels-on-the-bus",
+      "title": "The Wheels on the Bus",
+      "composer": "Traditional",
+      "difficulty": 1,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 18,
+      "keys": 28,
+      "hasFingers": true
+    },
+    {
+      "id": "angels-we-have-heard",
+      "title": "Angels We Have Heard on High",
+      "composer": "Traditional",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 40,
+      "keys": 70,
+      "hasFingers": true
+    },
+    {
+      "id": "doxology",
+      "title": "Old Hundredth (Doxology)",
+      "composer": "Bourgeois",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 28,
+      "keys": 32,
+      "hasFingers": true
+    },
+    {
+      "id": "first-noel",
+      "title": "The First Noel",
+      "composer": "Traditional",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 43,
+      "keys": 72,
+      "hasFingers": true
+    },
+    {
+      "id": "fur-elise-full",
+      "title": "Für Elise (A–B–A)",
+      "composer": "Beethoven",
+      "difficulty": 5,
+      "kind": "song",
+      "hands": "both",
+      "seconds": 53,
+      "keys": 141,
+      "hasFingers": true
+    },
+    {
+      "id": "god-rest-ye",
+      "title": "God Rest Ye Merry, Gentlemen",
+      "composer": "Traditional",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 21,
+      "keys": 32,
+      "hasFingers": true
+    },
+    {
+      "id": "gymnopedie-1",
+      "title": "Gymnopédie No. 1",
+      "composer": "Satie",
+      "difficulty": 3,
+      "kind": "song",
+      "hands": "both",
+      "seconds": 50,
+      "keys": 100,
+      "hasFingers": true
+    },
+    {
+      "id": "red-river-valley",
+      "title": "Red River Valley",
+      "composer": "Traditional",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 22,
+      "keys": 36,
+      "hasFingers": true
+    },
+    {
+      "id": "spring",
+      "title": "Spring",
+      "composer": "Vivaldi",
+      "difficulty": 3,
+      "kind": "song",
+      "hands": "R",
+      "seconds": 30,
+      "keys": 48,
+      "hasFingers": true
+    },
+    {
+      "id": "surprise-symphony",
+      "title": "Surprise Symphony (Andante)",
+      "composer": "Haydn",
+      "difficulty": 2,
+      "kind": "song",
+      "hands": "both",
+      "seconds": 20,
+      "keys": 55,
       "hasFingers": true
     }
   ]

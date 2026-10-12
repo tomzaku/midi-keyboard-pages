@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "id": "wheels-on-the-bus",
+  "title": "The Wheels on the Bus",
+  "composer": "Traditional",
+  "difficulty": 1,
+  "kind": "song",
+  "bpm": 112,
+  "tracks": [
+    {
+      "hand": "R",
+      "notation": "C4/1 F4/4 F4/4:0.5 F4/4:0.5 F4/4 A4/1 C5/3 A4/1 F4/4:2 G4/5 E4/3 C4/1:2 C5/3 A4/1 F4/4 C4/1 F4/4 F4/4:0.5 F4/4:0.5 F4/4 A4/1 C5/3 A4/1 F4/4:2 G4/5:2 C4/1 C4/1 F4/4:4"
+    }
+  ]
+}
