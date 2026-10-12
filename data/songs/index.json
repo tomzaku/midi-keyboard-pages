@@ -2,6 +2,16 @@
   "version": 1,
   "songs": [
     {
+      "id": "warm-up",
+      "title": "Daily Warm-up",
+      "difficulty": 1,
+      "kind": "exercise",
+      "hands": "both",
+      "seconds": 47,
+      "keys": 60,
+      "hasFingers": true
+    },
+    {
       "id": "five-finger",
       "title": "Five Finger Warm-up",
       "difficulty": 1,

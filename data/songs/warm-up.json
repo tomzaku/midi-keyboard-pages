@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "id": "warm-up",
+  "title": "Daily Warm-up",
+  "difficulty": 1,
+  "kind": "exercise",
+  "bpm": 66,
+  "tracks": [
+    {
+      "hand": "R",
+      "notation": "C4/1 D4/2 E4/3 F4/4 G4/5 F4/4 E4/3 D4/2 C4/1:2 r:2 r:12 C4/1 D4/2 E4/3 F4/4 G4/5 F4/4 E4/3 D4/2 C4/1:2 r:2 C4/1 E4/3 D4/2 F4/4 E4/3 G4/5:2 r:2 G4/5 E4/3 F4/4 D4/2 E4/3 C4/1:2"
+    },
+    {
+      "hand": "L",
+      "notation": "r:12 C3/5 D3/4 E3/3 F3/2 G3/1 F3/2 E3/3 D3/4 C3/5:2 r:2 C3/5 D3/4 E3/3 F3/2 G3/1 F3/2 E3/3 D3/4 C3/5:2 r:2 C3/5 E3/3 D3/4 F3/2 E3/3 G3/1:2 r:2 G3/1 E3/3 F3/2 D3/4 E3/3 C3/5:2"
+    }
+  ]
+}
