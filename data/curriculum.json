@@ -2,15 +2,15 @@
   "version": 1,
   "tracks": [
     {
-      "id": "theory",
-      "title": "Theory",
-      "icon": "📖",
-      "blurb": "Understand the keyboard, notes, fingers and rhythm, one idea at a time.",
+      "id": "lessons",
+      "title": "Lessons",
+      "icon": "🎹",
+      "blurb": "Understand each idea, then play it, from your first keys to Für Elise.",
       "milestones": [
         {
-          "id": "th-m1",
+          "id": "ls-m1",
           "title": "The keyboard",
-          "goal": "Find your way around the white and black keys.",
+          "goal": "Find your way around the keys and play your first C.",
           "lessons": [
             {
               "id": "th-keys",
@@ -24,7 +24,10 @@
                     "Keys on the **left** sound **low**. Keys on the **right** sound **high**.",
                     "Every key has its own sound. Try a few!"
                   ],
-                  "check": { "type": "any", "prompt": "Press any key to hear it." }
+                  "check": {
+                    "type": "any",
+                    "prompt": "Press any key to hear it."
+                  }
                 },
                 {
                   "title": "Groups of black keys",
@@ -33,11 +36,21 @@
                     "These groups are your map: every white key can be found from them."
                   ],
                   "keys": [
-                    { "note": "C#4" },
-                    { "note": "D#4" },
-                    { "note": "F#4" },
-                    { "note": "G#4" },
-                    { "note": "A#4" }
+                    {
+                      "note": "C#4"
+                    },
+                    {
+                      "note": "D#4"
+                    },
+                    {
+                      "note": "F#4"
+                    },
+                    {
+                      "note": "G#4"
+                    },
+                    {
+                      "note": "A#4"
+                    }
                   ],
                   "check": {
                     "type": "choice",
@@ -61,11 +74,24 @@
                     "There is a C in every octave."
                   ],
                   "keys": [
-                    { "note": "C3", "label": "C" },
-                    { "note": "C4", "label": "C" },
-                    { "note": "C5", "label": "C" }
+                    {
+                      "note": "C3",
+                      "label": "C"
+                    },
+                    {
+                      "note": "C4",
+                      "label": "C"
+                    },
+                    {
+                      "note": "C5",
+                      "label": "C"
+                    }
                   ],
-                  "check": { "type": "press-class", "prompt": "Play any C.", "name": "C" }
+                  "check": {
+                    "type": "press-class",
+                    "prompt": "Play any C.",
+                    "name": "C"
+                  }
                 },
                 {
                   "title": "Middle C",
@@ -73,24 +99,51 @@
                     "The C nearest the middle of the keyboard is called **middle C**.",
                     "Most first songs start here."
                   ],
-                  "keys": [{ "note": "C4", "label": "Middle C" }],
-                  "check": { "type": "press", "prompt": "Play middle C.", "notes": ["C4"] }
+                  "keys": [
+                    {
+                      "note": "C4",
+                      "label": "Middle C"
+                    }
+                  ],
+                  "check": {
+                    "type": "press",
+                    "prompt": "Play middle C.",
+                    "notes": ["C4"]
+                  }
                 },
                 {
                   "title": "F sits left of three black keys",
                   "text": ["Find a group of **three** black keys. The white key just to its **left** is **F**."],
                   "keys": [
-                    { "note": "F3", "label": "F" },
-                    { "note": "F4", "label": "F" }
+                    {
+                      "note": "F3",
+                      "label": "F"
+                    },
+                    {
+                      "note": "F4",
+                      "label": "F"
+                    }
                   ],
-                  "check": { "type": "press-class", "prompt": "Play any F.", "name": "F" }
+                  "check": {
+                    "type": "press-class",
+                    "prompt": "Play any F.",
+                    "name": "F"
+                  }
                 }
               ]
+            },
+            {
+              "id": "l1-find-c",
+              "type": "play",
+              "title": "Meet Middle C",
+              "goal": "C sits just left of the two black keys. Find every C.",
+              "songId": "find-c",
+              "mode": "wait"
             }
           ]
         },
         {
-          "id": "th-m2",
+          "id": "ls-m2",
           "title": "Note names",
           "goal": "Know the seven letters and find any white key.",
           "lessons": [
@@ -107,15 +160,40 @@
                     "From C going right: C D E F G A B C."
                   ],
                   "keys": [
-                    { "note": "C4", "label": "C" },
-                    { "note": "D4", "label": "D" },
-                    { "note": "E4", "label": "E" },
-                    { "note": "F4", "label": "F" },
-                    { "note": "G4", "label": "G" },
-                    { "note": "A4", "label": "A" },
-                    { "note": "B4", "label": "B" }
+                    {
+                      "note": "C4",
+                      "label": "C"
+                    },
+                    {
+                      "note": "D4",
+                      "label": "D"
+                    },
+                    {
+                      "note": "E4",
+                      "label": "E"
+                    },
+                    {
+                      "note": "F4",
+                      "label": "F"
+                    },
+                    {
+                      "note": "G4",
+                      "label": "G"
+                    },
+                    {
+                      "note": "A4",
+                      "label": "A"
+                    },
+                    {
+                      "note": "B4",
+                      "label": "B"
+                    }
                   ],
-                  "check": { "type": "press-class", "prompt": "Play any D (just right of C).", "name": "D" }
+                  "check": {
+                    "type": "press-class",
+                    "prompt": "Play any D (just right of C).",
+                    "name": "D"
+                  }
                 },
                 {
                   "title": "Up and down",
@@ -134,10 +212,20 @@
                     "From one C to the next is an **octave** (eight white keys)."
                   ],
                   "keys": [
-                    { "note": "C4", "label": "C" },
-                    { "note": "C5", "label": "C" }
+                    {
+                      "note": "C4",
+                      "label": "C"
+                    },
+                    {
+                      "note": "C5",
+                      "label": "C"
+                    }
                   ],
-                  "check": { "type": "press", "prompt": "Play the C one octave above middle C.", "notes": ["C5"] }
+                  "check": {
+                    "type": "press",
+                    "prompt": "Play the C one octave above middle C.",
+                    "notes": ["C5"]
+                  }
                 }
               ]
             },
@@ -150,31 +238,47 @@
                 {
                   "title": "Find E",
                   "text": ["E is the white key to the **right** of the two black keys."],
-                  "check": { "type": "press-class", "prompt": "Play any E.", "name": "E" }
+                  "check": {
+                    "type": "press-class",
+                    "prompt": "Play any E.",
+                    "name": "E"
+                  }
                 },
                 {
                   "title": "Find G",
                   "text": ["G is between the first and second key of the three black keys."],
-                  "check": { "type": "press-class", "prompt": "Play any G.", "name": "G" }
+                  "check": {
+                    "type": "press-class",
+                    "prompt": "Play any G.",
+                    "name": "G"
+                  }
                 },
                 {
                   "title": "Find A",
                   "text": ["A comes right after G."],
-                  "check": { "type": "press-class", "prompt": "Play any A.", "name": "A" }
+                  "check": {
+                    "type": "press-class",
+                    "prompt": "Play any A.",
+                    "name": "A"
+                  }
                 },
                 {
                   "title": "Find B",
                   "text": ["B is the white key to the **right** of the three black keys."],
-                  "check": { "type": "press-class", "prompt": "Play any B.", "name": "B" }
+                  "check": {
+                    "type": "press-class",
+                    "prompt": "Play any B.",
+                    "name": "B"
+                  }
                 }
               ]
             }
           ]
         },
         {
-          "id": "th-m3",
-          "title": "Your hands",
-          "goal": "Learn finger numbers and a good hand position.",
+          "id": "ls-m3",
+          "title": "Your hands and first keys",
+          "goal": "Learn finger numbers and hand position, then play your first melodies.",
           "lessons": [
             {
               "id": "th-fingers",
@@ -189,11 +293,26 @@
                     "Songs tell you which finger to use with these numbers."
                   ],
                   "keys": [
-                    { "note": "C4", "finger": 1 },
-                    { "note": "D4", "finger": 2 },
-                    { "note": "E4", "finger": 3 },
-                    { "note": "F4", "finger": 4 },
-                    { "note": "G4", "finger": 5 }
+                    {
+                      "note": "C4",
+                      "finger": 1
+                    },
+                    {
+                      "note": "D4",
+                      "finger": 2
+                    },
+                    {
+                      "note": "E4",
+                      "finger": 3
+                    },
+                    {
+                      "note": "F4",
+                      "finger": 4
+                    },
+                    {
+                      "note": "G4",
+                      "finger": 5
+                    }
                   ],
                   "check": {
                     "type": "choice",
@@ -243,13 +362,32 @@
                     "This is called **C position**."
                   ],
                   "keys": [
-                    { "note": "C4", "finger": 1 },
-                    { "note": "D4", "finger": 2 },
-                    { "note": "E4", "finger": 3 },
-                    { "note": "F4", "finger": 4 },
-                    { "note": "G4", "finger": 5 }
+                    {
+                      "note": "C4",
+                      "finger": 1
+                    },
+                    {
+                      "note": "D4",
+                      "finger": 2
+                    },
+                    {
+                      "note": "E4",
+                      "finger": 3
+                    },
+                    {
+                      "note": "F4",
+                      "finger": 4
+                    },
+                    {
+                      "note": "G4",
+                      "finger": 5
+                    }
                   ],
-                  "check": { "type": "press", "prompt": "Play G with finger 5.", "notes": ["G4"] }
+                  "check": {
+                    "type": "press",
+                    "prompt": "Play G with finger 5.",
+                    "notes": ["G4"]
+                  }
                 },
                 {
                   "title": "Curved fingers",
@@ -270,22 +408,132 @@
                     "Put your **left pinky on the C below middle C**, then one finger per key up to the thumb on G."
                   ],
                   "keys": [
-                    { "note": "C3", "finger": 5 },
-                    { "note": "D3", "finger": 4 },
-                    { "note": "E3", "finger": 3 },
-                    { "note": "F3", "finger": 2 },
-                    { "note": "G3", "finger": 1 }
+                    {
+                      "note": "C3",
+                      "finger": 5
+                    },
+                    {
+                      "note": "D3",
+                      "finger": 4
+                    },
+                    {
+                      "note": "E3",
+                      "finger": 3
+                    },
+                    {
+                      "note": "F3",
+                      "finger": 2
+                    },
+                    {
+                      "note": "G3",
+                      "finger": 1
+                    }
                   ],
-                  "check": { "type": "press", "prompt": "Play that C with your left pinky.", "notes": ["C3"] }
+                  "check": {
+                    "type": "press",
+                    "prompt": "Play that C with your left pinky.",
+                    "notes": ["C3"]
+                  }
                 }
               ]
+            },
+            {
+              "id": "l1-five",
+              "type": "play",
+              "title": "Five Fingers",
+              "goal": "Thumb on C, one finger per key, up and back down.",
+              "songId": "five-finger",
+              "mode": "wait"
+            },
+            {
+              "id": "l1-mary",
+              "type": "play",
+              "title": "Mary Had a Little Lamb",
+              "goal": "Your first song with three fingers.",
+              "songId": "mary",
+              "mode": "wait"
+            },
+            {
+              "id": "l1-lightly",
+              "type": "play",
+              "title": "Lightly Row",
+              "goal": "All five fingers in C position.",
+              "songId": "lightly-row",
+              "mode": "wait"
+            },
+            {
+              "id": "l1-twinkle",
+              "type": "play",
+              "title": "Twinkle Twinkle",
+              "goal": "Stretch to A for the \"little star\".",
+              "songId": "twinkle",
+              "mode": "wait"
             }
           ]
         },
         {
-          "id": "th-m4",
+          "id": "ls-m4",
+          "title": "Both hands",
+          "goal": "Bring in the left hand, then play with both.",
+          "lessons": [
+            {
+              "id": "l2-left",
+              "type": "play",
+              "title": "Left Hand Walk",
+              "goal": "The left hand plays low notes. Pinky starts on C.",
+              "songId": "left-walk",
+              "mode": "wait"
+            },
+            {
+              "id": "l2-mary-left",
+              "type": "play",
+              "title": "Mary, Left Hand",
+              "goal": "A song you know, now with your left hand.",
+              "songId": "mary-left",
+              "mode": "wait",
+              "hands": "L"
+            },
+            {
+              "id": "l2-warm-up",
+              "type": "play",
+              "title": "Both Hands Warm-up",
+              "goal": "Each hand alone, then both together, C to G and back. Repeat it to start every session.",
+              "songId": "warm-up",
+              "mode": "wait",
+              "hands": "both"
+            },
+            {
+              "id": "l2-ode",
+              "type": "play",
+              "title": "Ode to Joy",
+              "goal": "A famous melody in the right hand.",
+              "songId": "ode-rh",
+              "mode": "wait"
+            },
+            {
+              "id": "l2-ode-l",
+              "type": "play",
+              "title": "Ode to Joy: left hand",
+              "goal": "Hold the bass notes while the melody plays for you.",
+              "songId": "ode-both",
+              "mode": "wait",
+              "hands": "L"
+            },
+            {
+              "id": "l2-ode-both",
+              "type": "play",
+              "title": "Ode to Joy: together",
+              "goal": "Both hands at once. Take it slow.",
+              "songId": "ode-both",
+              "mode": "wait",
+              "speed": 0.8
+            }
+          ]
+        },
+        {
+          "id": "ls-m5",
           "title": "Rhythm",
-          "goal": "Feel the beat and read note lengths.",
+          "goal": "Feel the beat, then play in time as the notes keep moving.",
           "lessons": [
             {
               "id": "th-beat",
@@ -380,369 +628,7 @@
                   }
                 }
               ]
-            }
-          ]
-        },
-        {
-          "id": "th-m5",
-          "title": "Sharps and flats",
-          "goal": "Name the black keys.",
-          "lessons": [
-            {
-              "id": "th-sharps",
-              "type": "theory",
-              "title": "Black key names",
-              "goal": "Sharps go up, flats go down.",
-              "pages": [
-                {
-                  "title": "Sharp ♯ means up",
-                  "text": ["A **sharp** (♯) is the key just to the **right**. C♯ is the black key right of C."],
-                  "keys": [
-                    { "note": "C4", "label": "C" },
-                    { "note": "C#4", "label": "C♯" }
-                  ],
-                  "check": { "type": "press-class", "prompt": "Play any C♯.", "name": "C#" }
-                },
-                {
-                  "title": "Flat ♭ means down",
-                  "text": ["A **flat** (♭) is the key just to the **left**. B♭ is the black key left of B."],
-                  "keys": [
-                    { "note": "B4", "label": "B" },
-                    { "note": "Bb4", "label": "B♭" }
-                  ],
-                  "check": { "type": "press-class", "prompt": "Play any B♭.", "name": "Bb" }
-                },
-                {
-                  "title": "Two names, one key",
-                  "text": ["Each black key has two names. The key right of C is C♯, and it is also D♭ (left of D)."],
-                  "check": {
-                    "type": "choice",
-                    "prompt": "C♯ is the same key as…",
-                    "options": ["D♭", "B♭", "E♭"],
-                    "answer": 0
-                  }
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "th-m6",
-          "title": "Moving your hand",
-          "goal": "Know when and how your hand moves, and read the hints.",
-          "lessons": [
-            {
-              "id": "th-moves",
-              "type": "theory",
-              "title": "Why hands move",
-              "goal": "Reaches, thumb under, cross over and the hints that show them.",
-              "pages": [
-                {
-                  "title": "Five fingers, many keys",
-                  "text": ["One hand covers about **five keys**. Songs go further, so your hand has to move."],
-                  "hand": "R",
-                  "keys": [
-                    { "note": "C4", "finger": 1 },
-                    { "note": "D4", "finger": 2 },
-                    { "note": "E4", "finger": 3 },
-                    { "note": "F4", "finger": 4 },
-                    { "note": "G4", "finger": 5 }
-                  ],
-                  "check": {
-                    "type": "choice",
-                    "prompt": "Without moving, one hand covers about…",
-                    "options": ["5 keys", "2 keys", "12 keys"],
-                    "answer": 0
-                  }
-                },
-                {
-                  "title": "Reaching",
-                  "text": [
-                    "A finger can **stretch one key** without moving the hand.",
-                    "Keyflow shows this on the note as **+1 →** (reach one key right) or **← −1**."
-                  ],
-                  "hand": "R",
-                  "keys": [
-                    { "note": "C4", "finger": 1 },
-                    { "note": "G4", "finger": 4 },
-                    { "note": "A4", "finger": 5 }
-                  ],
-                  "check": {
-                    "type": "press",
-                    "prompt": "Keep your thumb on C and reach your pinky to A.",
-                    "notes": ["A4"]
-                  }
-                },
-                {
-                  "title": "Thumb under",
-                  "text": [
-                    "Going up a scale, after finger 3 the **thumb slides under** to the next key. The hand moves along with it."
-                  ],
-                  "hand": "R",
-                  "keys": [
-                    { "note": "C4", "finger": 1 },
-                    { "note": "D4", "finger": 2 },
-                    { "note": "E4", "finger": 3 },
-                    { "note": "F4", "finger": 1 },
-                    { "note": "G4", "finger": 2 }
-                  ],
-                  "check": {
-                    "type": "press",
-                    "prompt": "Play F with your thumb, passing it under finger 3.",
-                    "notes": ["F4"]
-                  }
-                },
-                {
-                  "title": "Cross over",
-                  "text": ["Coming back down, **finger 3 crosses over** the thumb, and the hand moves back."],
-                  "hand": "R",
-                  "keys": [
-                    { "note": "G4", "finger": 2 },
-                    { "note": "F4", "finger": 1 },
-                    { "note": "E4", "finger": 3 },
-                    { "note": "D4", "finger": 2 },
-                    { "note": "C4", "finger": 1 }
-                  ],
-                  "check": {
-                    "type": "choice",
-                    "prompt": "Coming down a scale, which finger crosses over the thumb?",
-                    "options": ["3", "5", "1"],
-                    "answer": 0
-                  }
-                },
-                {
-                  "title": "Reading the hints",
-                  "text": [
-                    "**+1 →** on a note: reach that finger one key to the right.",
-                    "**Hand +4**: move your whole hand four keys to the right.",
-                    "A **dashed outline** and the hand at the bottom show the move before it happens."
-                  ],
-                  "hand": "R",
-                  "keys": [
-                    { "note": "C4", "finger": 1 },
-                    { "note": "E4", "finger": 3 },
-                    { "note": "G4", "finger": 5 },
-                    { "note": "G4", "finger": 1 },
-                    { "note": "B4", "finger": 3 },
-                    { "note": "D5", "finger": 5 }
-                  ],
-                  "check": {
-                    "type": "choice",
-                    "prompt": "What does “+1 →” on a note mean?",
-                    "options": ["Reach one key to the right", "Play for one beat", "Use finger 1"],
-                    "answer": 0
-                  }
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "th-m7",
-          "title": "Chords",
-          "goal": "Play three notes at once.",
-          "lessons": [
-            {
-              "id": "th-chords",
-              "type": "theory",
-              "title": "Three notes together",
-              "goal": "What a chord is and how to play one.",
-              "pages": [
-                {
-                  "title": "What's a chord?",
-                  "text": [
-                    "A **chord** is three or more notes played together.",
-                    "The C chord is **C E G**, played with fingers **1 3 5**."
-                  ],
-                  "keys": [
-                    { "note": "C4", "finger": 1 },
-                    { "note": "E4", "finger": 3 },
-                    { "note": "G4", "finger": 5 }
-                  ],
-                  "check": { "type": "chord", "prompt": "Play C, E and G together.", "notes": ["C4", "E4", "G4"] }
-                },
-                {
-                  "title": "The F chord",
-                  "text": ["Keep your thumb on C and play **C F A** with fingers **1 4 5**. That's an F chord."],
-                  "keys": [
-                    { "note": "C4", "finger": 1 },
-                    { "note": "F4", "finger": 4 },
-                    { "note": "A4", "finger": 5 }
-                  ],
-                  "check": { "type": "chord", "prompt": "Play C, F and A together.", "notes": ["C4", "F4", "A4"] }
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "th-m8",
-          "title": "Major and minor",
-          "goal": "Hear the difference between bright and dark chords.",
-          "lessons": [
-            {
-              "id": "th-minor",
-              "type": "theory",
-              "title": "Bright and dark",
-              "goal": "Turn a major chord into a minor one.",
-              "pages": [
-                {
-                  "title": "Major sounds bright",
-                  "text": ["The C chord you know, **C E G**, is a **major** chord. It sounds bright and happy."],
-                  "keys": [
-                    { "note": "C4", "finger": 1 },
-                    { "note": "E4", "finger": 3 },
-                    { "note": "G4", "finger": 5 }
-                  ],
-                  "check": { "type": "chord", "prompt": "Play C major: C, E and G.", "notes": ["C4", "E4", "G4"] }
-                },
-                {
-                  "title": "Minor sounds dark",
-                  "text": [
-                    "Lower the **middle note** by one key: **C E♭ G** is **C minor**.",
-                    "Listen: the same chord now sounds darker, a little sad."
-                  ],
-                  "keys": [
-                    { "note": "C4", "finger": 1 },
-                    { "note": "Eb4", "finger": 3, "label": "E♭" },
-                    { "note": "G4", "finger": 5 }
-                  ],
-                  "check": { "type": "chord", "prompt": "Play C minor: C, E♭ and G.", "notes": ["C4", "Eb4", "G4"] }
-                },
-                {
-                  "title": "A minor",
-                  "text": ["**A C E** uses only white keys. It is **A minor**, the minor key next door to C major."],
-                  "keys": [
-                    { "note": "A3", "finger": 1 },
-                    { "note": "C4", "finger": 3 },
-                    { "note": "E4", "finger": 5 }
-                  ],
-                  "check": { "type": "chord", "prompt": "Play A minor: A, C and E.", "notes": ["A3", "C4", "E4"] }
-                },
-                {
-                  "title": "Hear the difference",
-                  "text": ["Major and minor differ only in the middle note. Play both and listen."],
-                  "check": {
-                    "type": "choice",
-                    "prompt": "To turn C major into C minor you…",
-                    "options": ["Lower the middle note one key", "Raise the top note one key", "Add a fourth note"],
-                    "answer": 0
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "practice",
-      "title": "Practice",
-      "icon": "🎹",
-      "blurb": "Play real music, from your first keys to Für Elise.",
-      "milestones": [
-        {
-          "id": "pr-m1",
-          "title": "First keys",
-          "goal": "Play your first melodies with the right hand.",
-          "lessons": [
-            {
-              "id": "l1-find-c",
-              "type": "play",
-              "title": "Meet Middle C",
-              "goal": "C sits just left of the two black keys. Find every C.",
-              "songId": "find-c",
-              "mode": "wait"
             },
-            {
-              "id": "l1-five",
-              "type": "play",
-              "title": "Five Fingers",
-              "goal": "Thumb on C, one finger per key, up and back down.",
-              "songId": "five-finger",
-              "mode": "wait"
-            },
-            {
-              "id": "l1-mary",
-              "type": "play",
-              "title": "Mary Had a Little Lamb",
-              "goal": "Your first song with three fingers.",
-              "songId": "mary",
-              "mode": "wait"
-            },
-            {
-              "id": "l1-lightly",
-              "type": "play",
-              "title": "Lightly Row",
-              "goal": "All five fingers in C position.",
-              "songId": "lightly-row",
-              "mode": "wait"
-            },
-            {
-              "id": "l1-twinkle",
-              "type": "play",
-              "title": "Twinkle Twinkle",
-              "goal": "Stretch to A for the \"little star\".",
-              "songId": "twinkle",
-              "mode": "wait"
-            }
-          ]
-        },
-        {
-          "id": "pr-m2",
-          "title": "Both hands",
-          "goal": "Bring in the left hand, then play with both.",
-          "lessons": [
-            {
-              "id": "l2-left",
-              "type": "play",
-              "title": "Left Hand Walk",
-              "goal": "The left hand plays low notes. Pinky starts on C.",
-              "songId": "left-walk",
-              "mode": "wait"
-            },
-            {
-              "id": "l2-mary-left",
-              "type": "play",
-              "title": "Mary, Left Hand",
-              "goal": "A song you know, now with your left hand.",
-              "songId": "mary-left",
-              "mode": "wait",
-              "hands": "L"
-            },
-            {
-              "id": "l2-ode",
-              "type": "play",
-              "title": "Ode to Joy",
-              "goal": "A famous melody in the right hand.",
-              "songId": "ode-rh",
-              "mode": "wait"
-            },
-            {
-              "id": "l2-ode-l",
-              "type": "play",
-              "title": "Ode to Joy: left hand",
-              "goal": "Hold the bass notes while the melody plays for you.",
-              "songId": "ode-both",
-              "mode": "wait",
-              "hands": "L"
-            },
-            {
-              "id": "l2-ode-both",
-              "type": "play",
-              "title": "Ode to Joy: together",
-              "goal": "Both hands at once. Take it slow.",
-              "songId": "ode-both",
-              "mode": "wait",
-              "speed": 0.8
-            }
-          ]
-        },
-        {
-          "id": "pr-m3",
-          "title": "Rhythm",
-          "goal": "Play in time as the notes keep moving.",
-          "lessons": [
             {
               "id": "l3-steady",
               "type": "play",
@@ -799,10 +685,66 @@
           ]
         },
         {
-          "id": "pr-m4",
+          "id": "ls-m6",
           "title": "Black keys and scales",
-          "goal": "Use sharps and play your first scales.",
+          "goal": "Name the black keys, learn how your hand moves, and play your first scales.",
           "lessons": [
+            {
+              "id": "th-sharps",
+              "type": "theory",
+              "title": "Black key names",
+              "goal": "Sharps go up, flats go down.",
+              "pages": [
+                {
+                  "title": "Sharp ♯ means up",
+                  "text": ["A **sharp** (♯) is the key just to the **right**. C♯ is the black key right of C."],
+                  "keys": [
+                    {
+                      "note": "C4",
+                      "label": "C"
+                    },
+                    {
+                      "note": "C#4",
+                      "label": "C♯"
+                    }
+                  ],
+                  "check": {
+                    "type": "press-class",
+                    "prompt": "Play any C♯.",
+                    "name": "C#"
+                  }
+                },
+                {
+                  "title": "Flat ♭ means down",
+                  "text": ["A **flat** (♭) is the key just to the **left**. B♭ is the black key left of B."],
+                  "keys": [
+                    {
+                      "note": "B4",
+                      "label": "B"
+                    },
+                    {
+                      "note": "Bb4",
+                      "label": "B♭"
+                    }
+                  ],
+                  "check": {
+                    "type": "press-class",
+                    "prompt": "Play any B♭.",
+                    "name": "Bb"
+                  }
+                },
+                {
+                  "title": "Two names, one key",
+                  "text": ["Each black key has two names. The key right of C is C♯, and it is also D♭ (left of D)."],
+                  "check": {
+                    "type": "choice",
+                    "prompt": "C♯ is the same key as…",
+                    "options": ["D♭", "B♭", "E♭"],
+                    "answer": 0
+                  }
+                }
+              ]
+            },
             {
               "id": "l4-black",
               "type": "play",
@@ -811,6 +753,182 @@
               "songId": "black-keys",
               "mode": "play",
               "speed": 0.8
+            },
+            {
+              "id": "th-moves",
+              "type": "theory",
+              "title": "Why hands move",
+              "goal": "Reaches, thumb under, cross over and the hints that show them.",
+              "pages": [
+                {
+                  "title": "Five fingers, many keys",
+                  "text": ["One hand covers about **five keys**. Songs go further, so your hand has to move."],
+                  "hand": "R",
+                  "keys": [
+                    {
+                      "note": "C4",
+                      "finger": 1
+                    },
+                    {
+                      "note": "D4",
+                      "finger": 2
+                    },
+                    {
+                      "note": "E4",
+                      "finger": 3
+                    },
+                    {
+                      "note": "F4",
+                      "finger": 4
+                    },
+                    {
+                      "note": "G4",
+                      "finger": 5
+                    }
+                  ],
+                  "check": {
+                    "type": "choice",
+                    "prompt": "Without moving, one hand covers about…",
+                    "options": ["5 keys", "2 keys", "12 keys"],
+                    "answer": 0
+                  }
+                },
+                {
+                  "title": "Reaching",
+                  "text": [
+                    "A finger can **stretch one key** without moving the hand.",
+                    "Keyflow shows this on the note as **+1 →** (reach one key right) or **← −1**."
+                  ],
+                  "hand": "R",
+                  "keys": [
+                    {
+                      "note": "C4",
+                      "finger": 1
+                    },
+                    {
+                      "note": "G4",
+                      "finger": 4
+                    },
+                    {
+                      "note": "A4",
+                      "finger": 5
+                    }
+                  ],
+                  "check": {
+                    "type": "press",
+                    "prompt": "Keep your thumb on C and reach your pinky to A.",
+                    "notes": ["A4"]
+                  }
+                },
+                {
+                  "title": "Thumb under",
+                  "text": [
+                    "Going up a scale, after finger 3 the **thumb slides under** to the next key. The hand moves along with it."
+                  ],
+                  "hand": "R",
+                  "keys": [
+                    {
+                      "note": "C4",
+                      "finger": 1
+                    },
+                    {
+                      "note": "D4",
+                      "finger": 2
+                    },
+                    {
+                      "note": "E4",
+                      "finger": 3
+                    },
+                    {
+                      "note": "F4",
+                      "finger": 1
+                    },
+                    {
+                      "note": "G4",
+                      "finger": 2
+                    }
+                  ],
+                  "check": {
+                    "type": "press",
+                    "prompt": "Play F with your thumb, passing it under finger 3.",
+                    "notes": ["F4"]
+                  }
+                },
+                {
+                  "title": "Cross over",
+                  "text": ["Coming back down, **finger 3 crosses over** the thumb, and the hand moves back."],
+                  "hand": "R",
+                  "keys": [
+                    {
+                      "note": "G4",
+                      "finger": 2
+                    },
+                    {
+                      "note": "F4",
+                      "finger": 1
+                    },
+                    {
+                      "note": "E4",
+                      "finger": 3
+                    },
+                    {
+                      "note": "D4",
+                      "finger": 2
+                    },
+                    {
+                      "note": "C4",
+                      "finger": 1
+                    }
+                  ],
+                  "check": {
+                    "type": "choice",
+                    "prompt": "Coming down a scale, which finger crosses over the thumb?",
+                    "options": ["3", "5", "1"],
+                    "answer": 0
+                  }
+                },
+                {
+                  "title": "Reading the hints",
+                  "text": [
+                    "**+1 →** on a note: reach that finger one key to the right.",
+                    "**Hand +4**: move your whole hand four keys to the right.",
+                    "A **dashed outline** and the hand at the bottom show the move before it happens."
+                  ],
+                  "hand": "R",
+                  "keys": [
+                    {
+                      "note": "C4",
+                      "finger": 1
+                    },
+                    {
+                      "note": "E4",
+                      "finger": 3
+                    },
+                    {
+                      "note": "G4",
+                      "finger": 5
+                    },
+                    {
+                      "note": "G4",
+                      "finger": 1
+                    },
+                    {
+                      "note": "B4",
+                      "finger": 3
+                    },
+                    {
+                      "note": "D5",
+                      "finger": 5
+                    }
+                  ],
+                  "check": {
+                    "type": "choice",
+                    "prompt": "What does “+1 →” on a note mean?",
+                    "options": ["Reach one key to the right", "Play for one beat", "Use finger 1"],
+                    "answer": 0
+                  }
+                }
+              ]
             },
             {
               "id": "l4-c-scale",
@@ -830,23 +948,71 @@
               "mode": "play",
               "speed": 0.85,
               "labels": false
-            },
-            {
-              "id": "l4-minor",
-              "type": "play",
-              "title": "A Minor Five Fingers",
-              "goal": "Your first minor position, then major vs minor chords.",
-              "songId": "a-minor-five",
-              "mode": "play",
-              "speed": 0.85
             }
           ]
         },
         {
-          "id": "pr-m5",
-          "title": "Chords",
-          "goal": "Play three notes at once and add a bass line.",
+          "id": "ls-m7",
+          "title": "Chords, major and minor",
+          "goal": "Play three notes at once, hear bright and dark, and add a bass line.",
           "lessons": [
+            {
+              "id": "th-chords",
+              "type": "theory",
+              "title": "Three notes together",
+              "goal": "What a chord is and how to play one.",
+              "pages": [
+                {
+                  "title": "What's a chord?",
+                  "text": [
+                    "A **chord** is three or more notes played together.",
+                    "The C chord is **C E G**, played with fingers **1 3 5**."
+                  ],
+                  "keys": [
+                    {
+                      "note": "C4",
+                      "finger": 1
+                    },
+                    {
+                      "note": "E4",
+                      "finger": 3
+                    },
+                    {
+                      "note": "G4",
+                      "finger": 5
+                    }
+                  ],
+                  "check": {
+                    "type": "chord",
+                    "prompt": "Play C, E and G together.",
+                    "notes": ["C4", "E4", "G4"]
+                  }
+                },
+                {
+                  "title": "The F chord",
+                  "text": ["Keep your thumb on C and play **C F A** with fingers **1 4 5**. That's an F chord."],
+                  "keys": [
+                    {
+                      "note": "C4",
+                      "finger": 1
+                    },
+                    {
+                      "note": "F4",
+                      "finger": 4
+                    },
+                    {
+                      "note": "A4",
+                      "finger": 5
+                    }
+                  ],
+                  "check": {
+                    "type": "chord",
+                    "prompt": "Play C, F and A together.",
+                    "notes": ["C4", "F4", "A4"]
+                  }
+                }
+              ]
+            },
             {
               "id": "l5-triads",
               "type": "play",
@@ -862,6 +1028,106 @@
               "goal": "Now change chords on the beat.",
               "songId": "triads",
               "mode": "play"
+            },
+            {
+              "id": "th-minor",
+              "type": "theory",
+              "title": "Bright and dark",
+              "goal": "Turn a major chord into a minor one.",
+              "pages": [
+                {
+                  "title": "Major sounds bright",
+                  "text": ["The C chord you know, **C E G**, is a **major** chord. It sounds bright and happy."],
+                  "keys": [
+                    {
+                      "note": "C4",
+                      "finger": 1
+                    },
+                    {
+                      "note": "E4",
+                      "finger": 3
+                    },
+                    {
+                      "note": "G4",
+                      "finger": 5
+                    }
+                  ],
+                  "check": {
+                    "type": "chord",
+                    "prompt": "Play C major: C, E and G.",
+                    "notes": ["C4", "E4", "G4"]
+                  }
+                },
+                {
+                  "title": "Minor sounds dark",
+                  "text": [
+                    "Lower the **middle note** by one key: **C E♭ G** is **C minor**.",
+                    "Listen: the same chord now sounds darker, a little sad."
+                  ],
+                  "keys": [
+                    {
+                      "note": "C4",
+                      "finger": 1
+                    },
+                    {
+                      "note": "Eb4",
+                      "finger": 3,
+                      "label": "E♭"
+                    },
+                    {
+                      "note": "G4",
+                      "finger": 5
+                    }
+                  ],
+                  "check": {
+                    "type": "chord",
+                    "prompt": "Play C minor: C, E♭ and G.",
+                    "notes": ["C4", "Eb4", "G4"]
+                  }
+                },
+                {
+                  "title": "A minor",
+                  "text": ["**A C E** uses only white keys. It is **A minor**, the minor key next door to C major."],
+                  "keys": [
+                    {
+                      "note": "A3",
+                      "finger": 1
+                    },
+                    {
+                      "note": "C4",
+                      "finger": 3
+                    },
+                    {
+                      "note": "E4",
+                      "finger": 5
+                    }
+                  ],
+                  "check": {
+                    "type": "chord",
+                    "prompt": "Play A minor: A, C and E.",
+                    "notes": ["A3", "C4", "E4"]
+                  }
+                },
+                {
+                  "title": "Hear the difference",
+                  "text": ["Major and minor differ only in the middle note. Play both and listen."],
+                  "check": {
+                    "type": "choice",
+                    "prompt": "To turn C major into C minor you…",
+                    "options": ["Lower the middle note one key", "Raise the top note one key", "Add a fourth note"],
+                    "answer": 0
+                  }
+                }
+              ]
+            },
+            {
+              "id": "l4-minor",
+              "type": "play",
+              "title": "A Minor Five Fingers",
+              "goal": "Your first minor position, then major vs minor chords.",
+              "songId": "a-minor-five",
+              "mode": "play",
+              "speed": 0.85
             },
             {
               "id": "l5-left-chords",
@@ -893,7 +1159,7 @@
           ]
         },
         {
-          "id": "pr-m6",
+          "id": "ls-m8",
           "title": "Advanced",
           "goal": "Arpeggios and a real classical piece.",
           "lessons": [
